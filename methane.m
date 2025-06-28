@@ -1,5 +1,5 @@
 %% introduction
-% This script corrects the EPA's US greenhouse gas emissions data to
+% This script adjusts the EPA's US greenhouse gas emissions data to
 % account for EPA's systematic underestimation of methane pollution from
 % natural gas infrastructure.
 
