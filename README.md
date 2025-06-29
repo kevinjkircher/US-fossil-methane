@@ -9,7 +9,7 @@ BibTeX citation:
 	author = {Kircher, K.J.},
 	journal = {Energy Policy},
 	number = {114747},
-	title = {Accounting for methane from natural gas infrastructure in United States greenhouse gas emission estimates},
+	title = {Accounting for methane from natural gas infrastructure in {U}nited {S}tates greenhouse gas emission estimates},
 	volume = {206},
 	year = {2025}}
 
